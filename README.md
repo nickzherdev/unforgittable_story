@@ -1,4 +1,4 @@
-# ungorgittable_story
+# unforgittable_story
 
 ### install repo on your computer
 git clone https://github.com/nickzherdev/ungorgittable_story.git
